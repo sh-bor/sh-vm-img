@@ -1,0 +1,9 @@
+{
+    "project_id": "57decee0-bf82-4b92-a5cf-20c2b4e61440",
+    "project": "expleo-testing",
+    "image_name": "vm-linux-borsh",
+    "os": "ubuntu18-base",
+    "scripts": ["test_installer.sh"],
+    "gpu_required": "false"
+  }
+  
